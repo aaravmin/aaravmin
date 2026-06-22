@@ -16,4 +16,6 @@ Previously:
 
 More at aaravmin.com, or reach me at aarav.minocha@gmail.com.
 
-> progress needs the technology and the governance moving together
+> Stone Roses 1989. I was in the crowd and I thought f*** this, I'm off to do it myself
+>
+> Liam Gallagher
