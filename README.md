@@ -1,8 +1,8 @@
 ### aarav minocha
 
-Data science and philosophy student at UC Berkeley
+Data Science and Philosophy student @ UC Berkeley 🧸
 
-Building AI agents for regulation and healthcar
+Building AI agents for regulation and healthcare 
 
 Outside that, I play tennis and guitar, skateboard, and listen to a lot of Oasis
 
