@@ -1,9 +1,10 @@
 <h1 align="center">Aarav Minocha</h1>
 
 <p align="center">
-  Data Science and Philosophy student @ UC Berkeley<br/>
+  Data Science and Philosophy student @ UC Berkeley 🧸 <br/>
   Building AI agents for regulation and healthcare<br/>
   Co-founder @ Reteena
+  SWE Intern @ FTNSS (Antler ATX8)| First Intern
 </p>
 
 <p align="center">
