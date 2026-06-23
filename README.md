@@ -18,7 +18,7 @@
 
 ---
 
-Outside that, I play tennis and guitar, skateboard, and listen to a lot of Oasis and Daniel Caesar.
+Outside that, I play tennis and guitar, workout, skateboard, and listen to a lot of Oasis and Daniel Caesar.
 
 > Stone Roses 1989. I was in the crowd and I thought f*** this, I'm off to do it myself
 >
