@@ -1,4 +1,4 @@
-<h1 align="center">Aarav Minocha</h1>
+<h1 align="center"> Hi! I'm Aarav Minocha</h1>
 
 <p align="center">
   Data Science and Philosophy @ UC Berkeley 🧸<br/>
