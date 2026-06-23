@@ -1,10 +1,23 @@
-### aarav minocha
+<h1 align="center">Aarav Minocha</h1>
 
-Data Science and Philosophy student @ UC Berkeley 🧸
+<p align="center">
+  Data Science and Philosophy student @ UC Berkeley<br/>
+  Building AI agents for regulation and healthcare<br/>
+  Co-founder @ Reteena
+</p>
 
-Building AI agents for regulation and healthcare 
+<p align="center">
+  <a href="https://aaravmin.com">website</a> •
+  <a href="https://www.linkedin.com/in/aaravminocha/">linkedin</a> •
+  <a href="https://x.com/aarav_minocha">x</a> •
+  <a href="https://substack.com/@aaravminocha">substack</a> •
+  <a href="https://scholar.google.com/citations?user=J0Ie5RYAAAAJ&hl=en">scholar</a> •
+  <a href="mailto:aarav.minocha@gmail.com">email</a>
+</p>
 
-Outside that, I play tennis + guitar, skateboard, and listen to a lot of Oasis & Daniel Caesar
+---
+
+Outside that, I play tennis and guitar, skateboard, and listen to a lot of Oasis and Daniel Caesar.
 
 > Stone Roses 1989. I was in the crowd and I thought f*** this, I'm off to do it myself
 >
