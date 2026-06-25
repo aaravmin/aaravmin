@@ -3,8 +3,8 @@
 <p align="center">
   Data Science and Philosophy @ UC Berkeley 🧸<br/>
   Building AI agents for governance and healthcare<br/>
-  Co-founder @ Reteena<br/>
-  SWE Intern @ FTNSS (Antler ATX8) | First Intern
+  SWE Intern @ FTNSS (Antler ATX S25) | First Intern<br/>
+  Co-founder @ Reteena
 </p>
 
 <p align="center">
