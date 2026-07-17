@@ -31,6 +31,6 @@ Projects I'm working on
 | --- | --- |
 | [TRIDENT](https://reteena.org) | an adaptive brain-computer interface, the latest from Reteena |
 | [Fineprint](https://fineprint-ai.com) | the cheapest path to NYC Local Law 97 compliance from just an address |
-| Jarvis | turns the commitments in your email and meetings into tracked tasks with automatic drafts |
+| [Pincite] (https://pincite.net) | flags errors in your patent drafts and provides MPEP (patent guidebook) and Google Patents citations for each flag |
 
 Most familiar with Python, TypeScript, JavaScript, React, Next.js, Tailwind, and Supabase.
