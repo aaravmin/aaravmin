@@ -1,10 +1,10 @@
 <h1 align="center"> Hi! I'm Aarav</h1>
 
 <p align="center">
-  Data Science and Philosophy @ UC Berkeley 🧸<br/>
+  Computer Science and Philosophy @ Brown 🧸<br/>
   Building AI agents for governance and healthcare<br/>
   <br/>
-  SWE Intern @ FTNSS (Antler ATX S25) | First Intern<br/>
+  SWE Intern @ FTNSS (Antler Accelerator S25) | First Intern<br/>
   Co-founder @ Reteena
 </p>
 
@@ -19,7 +19,9 @@
 
 ---
 
-Outside that, I play tennis and guitar, workout, skateboard, and listen to a lot of Oasis and Daniel Caesar.
+Outside that, I play the guitar, workout, skateboard, and listen to a lot of Oasis and Daniel Caesar.
+
+Currently watching: Steel Ball Run
 
 > Stone Roses 1989. I was in the crowd and I thought f*** this, I'm off to do it myself
 >
