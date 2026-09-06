@@ -23,16 +23,13 @@ Outside that, I play the guitar, workout, skateboard, and listen to a lot of Oas
 
 Currently watching: Steel Ball Run
 
-> Stone Roses 1989. I was in the crowd and I thought f*** this, I'm off to do it myself
->
-> Liam Gallagher
 
 Projects I'm working on
 
 | Project | What it does |
 | --- | --- |
-| [TRIDENT](https://reteena.org) | an adaptive brain-computer interface, the latest from Reteena |
-| [Fineprint](https://fineprint-ai.com) | the cheapest path to NYC Local Law 97 compliance from just an address |
+| [TRIDENT](https://reteena.org) | an adaptive brain-computer interface|
+| [Fineprint](https://fineprint-ai.com) | finds the cheapest infrastructure changes for NYC Local Law 97 compliance from just an address |
 | [Pincite](https://pincite.net) | flags errors in your patent drafts and provides MPEP (patent guidebook) and Google Patents citations for each flag |
 
-Most familiar with Python, TypeScript, JavaScript, React, Next.js, Tailwind, and Supabase.
+Most familiar with TypeScript, React, Python, and SQL
