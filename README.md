@@ -2,10 +2,6 @@
 
 <p align="center">
   Computer Science and Philosophy @ Brown 🧸<br/>
-  Building AI agents for governance and healthcare<br/>
-  <br/>
-  SWE Intern @ FTNSS (Antler Accelerator S25) | First Intern<br/>
-  Co-founder @ Reteena
 </p>
 
 <p align="center">
