@@ -15,7 +15,7 @@
 
 ---
 
-Outside that, I play the guitar, workout, skateboard, and listen to a lot of Oasis and Daniel Caesar.
+In my free time, I play the guitar, workout, skateboard, and listen to a lot of Oasis and Daniel Caesar.
 
 Currently watching: Steel Ball Run
 
